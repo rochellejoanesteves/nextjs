@@ -1,0 +1,43 @@
+{
+    "Home": {
+        "example1": "This is sample description 1.",
+        "example2": "This is sample description 2.",
+        "footer": "This is footer"
+    },
+    "Header": {
+        "title": "EN"
+    },
+    "NavigationLinks": {
+        "about": "About",
+        "vip junket": "Vip Junket",
+        "service": "Service",
+        "system": "System",
+        "support": "Support"
+    },
+    "SubLinks" : {
+        "solaire": "Solaire",
+        "okada": "Okada",
+        "cod": "COD",
+        "heritage": "Heritage",
+        "dheights": "D Heights",
+        "royce": "Royce",
+        "hotel room": "Hotel Room",
+        "vehicle": "Vehicle",
+        "baccarat": "Baccarat",
+        "slots": "Slots",
+        "power ball": "Power Ball",
+        "bank": "Bank"
+    },
+    "Card": {
+        "solaire": "Solaire",
+        "okada": "Okada",
+        "cod": "COD",
+        "heritage": "Heritage",
+        "dheights": "D Heights",
+        "royce": "Royce",
+        "location": "Location",
+        "manager": "Manager",
+        "cage": "Cage",
+        "email": "Email"
+    }
+}

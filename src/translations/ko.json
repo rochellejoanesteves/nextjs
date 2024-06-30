@@ -1,0 +1,43 @@
+{
+    "Home": {
+        "example1": "샘플 설명 1입니다.",
+        "example2": "샘플 설명 2입니다.",
+        "footer": "바닥글입니다"
+    },
+    "Header": {
+        "title": "KO"
+    },
+    "NavigationLinks": {
+        "about": "에 대한",
+        "vip junket": "VIP 정킷",
+        "service": "서비스",
+        "system": "체계",
+        "support": "지원하다"
+    },
+    "SubLinks" : {
+        "solaire": "솔레어",
+        "okada": "오카다",
+        "cod": "씨오디",
+        "heritage": "헤리티지",
+        "dheights": "디하이츠",
+        "royce": "로이스",
+        "hotel room": "호텔방",
+        "vehicle": "차량",
+        "baccarat": "바카라",
+        "slots": "슬롯",
+        "power ball": "파워볼",
+        "bank": "뱅크"
+    },
+    "Card": {
+        "solaire": "솔레어",
+        "okada": "오카다",
+        "cod": "씨오디",
+        "heritage": "헤리티지",
+        "dheights": "디하이츠",
+        "royce": "로이스",
+        "location": "위치",
+        "manager": "관리자",
+        "cage": "새장",
+        "email": "이메일"
+    }
+}

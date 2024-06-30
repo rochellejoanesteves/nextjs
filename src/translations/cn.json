@@ -1,0 +1,43 @@
+{
+    "Home": {
+        "example1": "这是示例描述 1.",
+        "example2": "这是示例描述 2.",
+        "footer": "这是页脚"
+    },
+    "Header": {
+        "title": "CN"
+    },
+    "NavigationLinks": {
+        "about": "关于",
+        "vip junket": "贵宾中介",
+        "service": "服务",
+        "system": "系统",
+        "support": "支持"
+    },
+    "SubLinks" : {
+        "solaire": "日光",
+        "okada": "冈田",
+        "cod": "鳕鱼",
+        "heritage": "遗产",
+        "dheights": "D 高地",
+        "royce": "罗伊斯",
+        "hotel room": "旅馆房间",
+        "vehicle": "车辆",
+        "baccarat": "百家乐",
+        "slots": "老虎机",
+        "power ball": "强力球",
+        "bank": "银行"
+    },
+    "Card": {
+        "solaire": "晨曦",
+        "okada": "冈田",
+        "cod": "鳕鱼",
+        "heritage": "遗产",
+        "royce": "罗伊斯",
+        "dheights": "D 高地",
+        "location": "地点",
+        "manager": "经理",
+        "cage": "笼",
+        "email": "电子邮件"
+    }
+}
