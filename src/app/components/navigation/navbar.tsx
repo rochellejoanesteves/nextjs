@@ -8,25 +8,10 @@ import Dropdown from "../dropdown";
 import Flag_EN from "../../../images/flag/en-flag.png";
 import Flag_KO from "../../../images/flag/ko-flag.png";
 import Flag_CN from "../../../images/flag/cn-flag.png";
+import { Items } from "@/app/dto/translatons";
+import { items } from "@/app/lib/data";
 
 
-const items = [
-  {
-    language: "English",
-    flag: Flag_EN,
-    path: "/en"
-  },
-  {
-    language: "Korean",
-    flag: Flag_KO,
-    path: "/ko"
-  },
-  {
-    language: "Chinese",
-    flag: Flag_CN,
-    path: "/cn"
-  }
-];
 
 
 const Navbar = () => {
